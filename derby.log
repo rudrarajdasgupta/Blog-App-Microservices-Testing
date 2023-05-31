@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Tue May 30 08:46:00 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-6aa7-c1ce-00000a484f78 
+on database directory memory:C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing\6ae56200-92b7-4585-9fe6-51bb844e86a2 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Admin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_372-b07
+user.dir=C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 30 08:47:08 IST 2023:
+Shutting down instance a816c00e-0188-6aa7-c1ce-00000a484f78 on database directory memory:C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing\6ae56200-92b7-4585-9fe6-51bb844e86a2 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Tue May 30 08:47:19 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eaa980c4-0188-6aa7-c1ce-00000a484f78 
+on database directory memory:C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing\6b521a5d-93bc-4ff6-bf8b-9c4d96b39932 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Admin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_372-b07
+user.dir=C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed May 31 00:54:56 IST 2023:
+Shutting down instance eaa980c4-0188-6aa7-c1ce-00000a484f78 on database directory memory:C:\Users\Public\Documents\Blog-App-Microservices-Unit-Integration-Testing\6b521a5d-93bc-4ff6-bf8b-9c4d96b39932 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
